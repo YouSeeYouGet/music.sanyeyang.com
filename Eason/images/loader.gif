@@ -1,0 +1,175 @@
+<!DOCTYPE HTML>
+
+<html>
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=10,IE=9,IE=8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
+<title>未找到页面 &#8211; 粤语歌曲谐音网-</title>       
+<script>
+
+window._deel = {name: '粤语歌曲谐音网',url: 'http://www.midmusic.cn/wp-content/themes/Cui1.0', ajaxpager: '', commenton: 0, roll: [0,0]}
+
+</script>
+<link rel='stylesheet' id='style-css'  href='http://www.midmusic.cn/wp-content/themes/Cui1.0/style.css?ver=1.0' type='text/css' media='all' />
+<script type='text/javascript' src='//libs.baidu.com/jquery/1.8.3/jquery.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.midmusic.cn/wp-content/themes/Cui1.0/js/jquery.js?ver=1.0'></script>
+<script type="text/javascript">
+<!--
+/******************************************************************************
+***   COPY PROTECTED BY http://chetangole.com/blog/wp-copyprotect/   version 3.1.0 ****
+******************************************************************************/
+function clickIE4(){
+if (event.button==2){
+return false;
+}
+}
+function clickNS4(e){
+if (document.layers||document.getElementById&&!document.all){
+if (e.which==2||e.which==3){
+return false;
+}
+}
+}
+
+if (document.layers){
+document.captureEvents(Event.MOUSEDOWN);
+document.onmousedown=clickNS4;
+}
+else if (document.all&&!document.getElementById){
+document.onmousedown=clickIE4;
+}
+
+document.oncontextmenu=new Function("return false")
+// --> 
+</script>
+
+<script type="text/javascript">
+/******************************************************************************
+***   COPY PROTECTED BY www.midmusic.cn ****
+******************************************************************************/
+function disableSelection(target){
+if (typeof target.onselectstart!="undefined") //For IE 
+	target.onselectstart=function(){return false}
+else if (typeof target.style.MozUserSelect!="undefined") //For Firefox
+	target.style.MozUserSelect="none"
+else //All other route (For Opera)
+	target.onmousedown=function(){return false}
+target.style.cursor = "default"
+}
+</script>
+<meta name="keywords" content="未找到页面">
+<meta name="description" content="粤语歌曲谐音网'未找到页面'">
+<link rel="shortcut icon" href="/wp-content/uploads/2016/09/favicon.ico" type="image/x-icon" />
+<!--[if lt IE 9]><script src="http://www.midmusic.cn/wp-content/themes/Cui1.0/js/html5.js"></script><![endif]-->
+
+</head>
+
+<body class="error404">
+<header id="masthead" class="site-header">
+  <nav id="top-header">
+    <div class="top-nav">
+      <div id="user-profile"> 您好
+                <span class="nav-set"><span class="nav-login">
+        <i class="fa fa-user"></i><a href="http://www.midmusic.cn/wp-login.php">登录</a>        </span> </span>
+              </div>
+
+    </div>
+  </nav>
+  <div id="nav-header">
+  	<div id="top-menu">
+    <div id="top-menu_1"><span class="nav-search"><i class="fa fa-search"></i></span> <span class="nav-search_1"><i class="fa fa-navicon"></i></span>
+      <hgroup class="logo-site">
+        <h1 class="site-title"> <a href="/"><img src="http://www.midmusic.cn/wp-content/themes/Cui1.0/img/logo.png" alt="粤语歌曲谐音网" /></a></h1>
+      </hgroup>
+      <div id="site-nav-wrap">
+        <nav id="site-nav" class="main-nav">
+          <div>
+            <ul class="down-menu nav-menu">
+              <li id="menu-item-5" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-5"><a href="http://www.midmusic.cn/">首页</a></li>
+<li id="menu-item-8" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8"><a href="http://www.midmusic.cn/category/gangtainan/">港台男歌手</a></li>
+<li id="menu-item-7" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7"><a href="http://www.midmusic.cn/category/gangtainv/">港台女歌手</a></li>
+<li id="menu-item-9" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9"><a href="http://www.midmusic.cn/category/gangtaizuhe/">港台组合</a></li>
+<li id="menu-item-900" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-900"><a href="http://www.midmusic.cn/tag/mianfei">免费曲目</a></li>
+<li id="menu-item-861" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-861"><a href="http://www.midmusic.cn/user/">用户中心</a></li>
+			   <li id="menu-item-6853" class="menu-item-6853"><a target="_blank" href="http://www.midmusic.cn/shuoming"><i class="fa-external-link-square fa"></i><span class="font-text">帮助</span></a></li>
+			   </ul>
+          </div>
+        </nav>
+      </div>
+    </div>
+  	</div>
+  </div>
+  <nav>
+    <ul class="nav_sj">
+        <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-5"><a href="http://www.midmusic.cn/">首页</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-8"><a href="http://www.midmusic.cn/category/gangtainan/">港台男歌手</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7"><a href="http://www.midmusic.cn/category/gangtainv/">港台女歌手</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-9"><a href="http://www.midmusic.cn/category/gangtaizuhe/">港台组合</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-900"><a href="http://www.midmusic.cn/tag/mianfei">免费曲目</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-861"><a href="http://www.midmusic.cn/user/">用户中心</a></li>
+    </ul>
+  </nav>
+</header>
+<div id="search-main">
+  <div id="searchbar">
+    <form id="searchform" action="/" method="get">
+      <input id="s" type="text" required placeholder="输入歌手或歌曲名称" name="s" value="">
+      <button id="searchsubmit" type="submit">搜索</button>
+    </form>
+  </div>
+  <div class="clear"></div>
+</div>
+<section class="container">
+<div class="speedbar">
+  <div class="toptip"><strong class="text-success"><i class="fa fa-volume-up"></i> </strong> 祝小伙伴们，新年快乐！</div>
+</div>
+<div class="banner banner-site"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 样式1 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-2702125674078792"
+     data-ad-slot="4829092416"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div><div class="content-wrap">
+<script type="text/javascript">     
+function countDown(secs,surl){     
+ var jumpTo = document.getElementById('jumpTo');
+ jumpTo.innerHTML=secs;  
+ if(--secs>0){     
+     setTimeout("countDown("+secs+",'"+surl+"')",1000);     
+     }     
+ else{       
+     location.href=surl;     
+     }     
+ }     
+</script>
+<div style="text-align:center;padding:10px 0;font-size:16px;background-color:#ffffff;">
+		<h2 style="font-size:36px;margin-bottom:10px;">404 . Not Just An Error</h2>
+        <p align="center">抱歉，沒有找到您需要的内容，将在<span id="jumpTo">5</span>秒后<span>&nbsp;<a href="http://www.midmusic.cn" id="localSrc">[ 跳转至首页 ]</a></span></p></p>
+</div>
+</div>
+<script type="text/javascript">
+countDown(5,$('#localSrc').attr('href'));
+</script>
+</section>
+<footer class="footer">
+    <div class="footer-inner">
+        <div class="copyright pull-left"><p><a href="http://www.midmusic.cn" title="粤语歌曲谐音网">粤语歌曲谐音网</a>&nbsp; &nbsp; &nbsp; 
+		<a href="http://www.midmusic.cn/sitemap.xml" title="网站地图1">网站地图1</a>&nbsp; &nbsp; &nbsp; 
+		<a href="http://www.midmusic.cn/sitemap.html" title="网站地图2">网站地图2</a>&nbsp; &nbsp; &nbsp; 鄂ICP备12016632&nbsp; &nbsp; &nbsp;客服QQ：1401580926
+         </p>
+        </div>
+        <div class="trackcode pull-right">
+            <script src="https://s95.cnzz.com/z_stat.php?id=1260739123&web_id=1260739123" language="JavaScript"></script>        </div>
+    </div>
+</footer>
+
+<script type="text/javascript">
+disableSelection(document.body)
+</script>
+
+</body>
+</html>
